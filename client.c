@@ -7,7 +7,7 @@
 #include <string.h>
 #include <arpa/inet.h>
 
-#define PORT 8080
+#define PORT 10000
 #define MAXLINE 4096
 
 int main (int argc, char *argv[])
